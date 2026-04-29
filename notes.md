@@ -20,3 +20,39 @@
 - push my code online.
 ## how i feel today
 - ifeel v proud and happy for today
+
+
+---
+
+# Day 2 - Tuesday (28 April 2026)
+
+## what i learned today
+- if/else make the computertake decision
+- check if two things are equal. = puts value in box. They are different!
+- elif means "else if" - for many cases.
+- indentation ( 4 spaces ) under if/else is the rule in python.
+- % (modulo) gives the remainder . 10 % 2 = 0 means even.
+- Nested if - an if inside another if.
+- Git saves my code versions.
+- GitHub puts my code online for the world to see.
+
+## What i built
+- Day-02.py - Takes a number , tells if positive/negative/zero, even/odd.
+- Tested with 4 numbers: 5, 10, -7, 0 - all worked!
+- pushed day-01.py and day-02.py to GitHub.
+
+## What was Hard
+- GitHub setup. My friend sohail old login was saved in my laptop. Caused error. Fixed by removing from Credential Manager.
+
+## Mistake I Made
+- Forgot Note field in token form. Filled it later.
+- Laptop turned off mid-work. Continued next day.
+
+## How I Feel
+- Very Proud! My code is live on the internet.
+- 2 Commits on my GitHub profile.
+
+## Goal for tomorrow
+- Learn functions (def,return).
+- Build Calculator Program.
+- Push day-03.py to GitHub.
