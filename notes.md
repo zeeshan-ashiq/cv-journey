@@ -56,3 +56,31 @@
 - Learn functions (def,return).
 - Build Calculator Program.
 - Push day-03.py to GitHub.
+
+---
+
+Day 3 - Wednesday (29 April 2026)
+
+## What I Learned Today
+- Functions are reusable pieces of code with names.
+- def means "define a new function"
+- Parameters a input a function receives.
+- return sends a value back from the function.
+- float allows a decimal numbers (unlike int which is whole numbers only).
+- Dividing by zero crashes program - I must check for it.
+
+## What I Built
+- day-03.py - A calculator with 4 functions (add, substract, multiply, divide).
+- Handle division by zero gracefully.
+- Tested with 6 different inputs - all worked!
+
+## What Was Hard
+- When I was writing code for calculator with function. I missed float() in type converter.
+
+## How I Feel
+- feel warm and happy because i learned new things.
+
+## Goal for Tomorrow
+- Learn loops (for and while)
+- Build a number guessing game.
+- Push day-04.py to GitHub.
