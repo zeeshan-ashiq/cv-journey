@@ -84,3 +84,35 @@ Day 3 - Wednesday (29 April 2026)
 - Learn loops (for and while)
 - Build a number guessing game.
 - Push day-04.py to GitHub.
+
+---
+
+Day 4 - Loops (delayed - finished after rest day)
+
+## What I Learned
+- for loop repeats a code a fixed number of times.
+- while loop keeps going until condition become false.
+- while True means "loop forever" - need break to exit.
+- break exits loop immediately.
+- continue skips current round, goes to next.
+- range(5) gives 0, 1, 2, 3, 4 - Not 1 to 5!
+- import brings tools from python's library.
+- random.randint(1, 100) picks random number.
+- Infinite loop = program freezes. Press Ctrl+C to stop.
+
+## What I Built
+- day-04.py - Number guessing game!
+- Computer picks secret number , I guess untill correct.
+- Best score: ___ tries (write your best!)
+
+## Honest  Reflection
+- I was very tired after watching loop videos.
+- I rested instead of pushing through  (good decision).
+- Came back fresh, completed the code easily.
+- lesson learned: tired coding is bad coding.
+
+## Goal for Tomorrow
+- Day 5: Learn strings (py4e Lesson 7).
+- Then learn lists (py4e Lesson 8).
+- Build day-05.py text analyzer.
+- Push to GitHub.
